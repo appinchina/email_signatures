@@ -1,0 +1,74 @@
+people = [
+    {
+        "name": "Rich Bishop",
+        "position": "CEO",
+        "phone": "+ 86 186 1006 8753",
+        "avatar_img": "https://signatures1images.s3.us-east-2.amazonaws.com/rich.png"
+    },
+    {
+        "name": "Philipp Neumann",
+        "position": "Business Development Manager",
+        "phone": "+ 86 135 2097 2338",
+        "avatar_img": "https://signatures1images.s3.us-east-2.amazonaws.com/philipp.png"
+    },
+    {
+        "name": "Tom Zeng",
+        "position": "Account Manager",
+        "phone": "+ 86 188 2098 9896",
+        "avatar_img": "https://signatures1images.s3.us-east-2.amazonaws.com/tom.png"
+    },
+    {
+        "name": "Sissi He",
+        "position": "Operations Manager",
+        "phone": "+ 86 156 1138 9742",
+        "avatar_img": "https://signatures1images.s3.us-east-2.amazonaws.com/sissi.png"
+    },
+    {
+        "name": "Cecelia Guo",
+        "position": "Operations Associate",
+        "phone": "+ 86 185 1399 1135",
+        "avatar_img": "https://signatures1images.s3.us-east-2.amazonaws.com/cecilia.png"
+    },
+    {
+        "name": "Rose Zhang",
+        "position": "Operations Associate",
+        "phone": "+ 86 198 0362 0936",
+        "avatar_img": "https://signatures1images.s3.us-east-2.amazonaws.com/rose.png"
+
+    },
+    {
+        "name": "Sally Wang",
+        "position": "Chief Operating Officer",
+        "phone": "+ 86 188 0000 2991",
+        "avatar_img": "https://signatures1images.s3.us-east-2.amazonaws.com/sally.png"
+    },
+    {
+        "name": "Yoni Hao",
+        "position": "Legal Counsel",
+        "phone": "+ 86 158 1022 5572",
+        "avatar_img": "https://signatures1images.s3.us-east-2.amazonaws.com/yoni.png"
+    }
+]
+
+
+
+Yoni Hao
+
+Legal Counsel
+
+    
+
+  
+
+ + 86 158 1022 5572
+
+  
+
+ www.appinchina.co
+
+
+
+
+
+
+

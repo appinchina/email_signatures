@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .email-signature {
+    max-width: 500px;
+    margin: 0 auto;
+    /* border-top: 2px solid #ccc; */
+    padding: 10px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .signature-table {
+    width: fit-content;
+  }
+  
+  .profile-cell {
+    width: fit-content;
+    padding-bottom: 8px;
+  }
+
+  .profile-image {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  .name {
+    padding-bottom: 1px;
+    font-size: 14px;
+    color: #8cbd3a;
+    padding-top: 4px;
+  }
+  
+  .position {
+    font-size: 12px;
+  }
+
+  .contact-cell {
+    width: fit-content;
+    padding-left: 0px;
+    padding-right: 8px;
+  }
+
+  .top-border {
+    border-top: 1px solid #8cbd3a;
+    padding-top: 8px;
+  }
+
+  .social_media_logos{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 12px;
+    gap: 4px;
+  }
+
+  .social_media_logos img{
+    width: 18px;
+    height: 18px;
+    object-fit: cover;
+  }
+  
+  .contact-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 0px;
+  }
+  
+  .info-row {
+    padding-bottom: 4px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 12px;
+  }
+
+  .info-row img{
+    padding-right: 8px;
+  }
+  
