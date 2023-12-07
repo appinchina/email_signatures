@@ -54,13 +54,14 @@ body {
     flex-direction: row;
     align-items: center;
     padding-top: 12px;
-    gap: 4px;
+    gap: 0px;
   }
 
   .social_media_logos img{
     width: 18px;
     height: 18px;
     object-fit: cover;
+    padding-right: 4px;
   }
   
   .contact-info {
