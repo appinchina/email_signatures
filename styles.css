@@ -29,13 +29,13 @@ body {
   
   .name {
     padding-bottom: 1px;
-    font-size: 14px;
+    font-size: 16px;
     color: #8cbd3a;
     padding-top: 4px;
   }
   
   .position {
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .contact-cell {
