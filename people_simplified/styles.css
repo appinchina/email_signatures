@@ -17,7 +17,7 @@ body {
   
   .profile-cell {
     width: fit-content;
-    padding-bottom: 8px;
+    padding-bottom: 4px;
   }
 
   .profile-image {
@@ -35,7 +35,9 @@ body {
   }
   
   .position {
+    min-width: 135px;
     font-size: 14px;
+    color: rgba(5, 5, 5, 0.935) !important;
   }
 
   .contact-cell {
@@ -72,7 +74,7 @@ body {
   }
   
   .info-row {
-    padding-bottom: 4px;
+    padding-bottom: 0px;
     display: flex;
     flex-direction: row;
     align-items: center;
